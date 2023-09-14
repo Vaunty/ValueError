@@ -11,4 +11,4 @@ Traceback (most recent call last):
                                                       ^^^^^^^^^^^^^^^^^^^^
 ValueError: Unknown format code 'f' for object of type 'str'
 
-![Screenshot 2023-09-13 200133](https://github.com/Vaunty/ValueError/assets/68826427/080b600f-a600-4230-b4b7-c01b4cb70e4e)
+![Screenshot 2023-09-13 200133](https://github.com/Vaunty/ValueError/assets/68826427/a6fdd7aa-5e60-4ed1-a9d6-98bd58d83a0c)
